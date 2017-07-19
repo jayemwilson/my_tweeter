@@ -19,7 +19,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'devise'
 gem 'carrierwave'
 gem 'mini_magick'
-gem 'fog'
+#gem 'fog'
 gem 'figaro'
 gem 'bootstrap-sass'
 gem 'jquery-rails'
